@@ -18,7 +18,7 @@ Volume Edited by:
   * Russ Greiner
   * Neeraj Kumar
   * Thomas Alexander Gerds
-  * Mihaela Schaar
+  * Mihaela van der Schaar
 
 Series Editors:
   * Neil D. Lawrence
