@@ -15,7 +15,7 @@ For details of what is required to submit a proceedings please check http://proc
 Published as Volume 146 by the Proceedings of Machine Learning Research on 11 May 2021.
 
 Volume Edited by:
-  * Russ Greiner
+  * Russell Greiner
   * Neeraj Kumar
   * Thomas Alexander Gerds
   * Mihaela van der Schaar

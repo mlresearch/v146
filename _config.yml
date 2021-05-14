@@ -15,10 +15,10 @@ issn: 2640-3498
 id: SPACA-2021
 month: 0
 cycles: false
-bibtex_editor: Greiner, Russ and Kumar, Neeraj and Gerds, Thomas Alexander and van
-  der Schaar, Mihaela
+bibtex_editor: Greiner, Russell and Kumar, Neeraj and Gerds, Thomas Alexander and
+  van der Schaar, Mihaela
 editor:
-- given: Russ
+- given: Russell
   family: Greiner
 - given: Neeraj
   family: Kumar
@@ -35,7 +35,7 @@ description: |
   Published as Volume 146 by the Proceedings of Machine Learning Research on 11 May 2021.
 
   Volume Edited by:
-    Russ Greiner
+    Russell Greiner
     Neeraj Kumar
     Thomas Alexander Gerds
     Mihaela van der Schaar
